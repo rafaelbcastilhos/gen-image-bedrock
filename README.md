@@ -49,7 +49,7 @@
 
 Acesse o bucket na Amazon S3, e veja as imagens em `image-{num}.png`. 
 
-Veja dois exemplos de imagens geradas:
+Veja exemplo de imagem gerada:
 ![Generated image of rusted oil pipeline](example/rusted_oil_pipeline.png)
 
 ## Limpeza
