@@ -50,8 +50,7 @@
 Acesse o bucket na Amazon S3, e veja as imagens em `image-{num}.png`. 
 
 Veja dois exemplos de imagens geradas:
-![Generated image of rusted oil pipeline](examples/rusted_oil_pipeline.png){ŵidth=200px}
-![Generated image of new military airplane](examples/military_airplane.png){ŵidth=200px}
+![Generated image of rusted oil pipeline](example/rusted_oil_pipeline.png)
 
 ## Limpeza
  
